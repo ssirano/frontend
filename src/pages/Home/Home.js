@@ -1,5 +1,5 @@
 import React from 'react';
-import CulturalPropertyMap from '../../components/Map/CulturalPropertyMap';
+import CulturalPropertyMap from '../../components/CulturalPropertyMap';
 
 const Home = () => {
   return (
